@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "npm-run-all --parallel liveserver watch",
-    "liveserver": "live-server",
+    "liveserver": "live-server --browser=firefox",
     "watch": "node-sass sass/main.scss css/style.css -w",
     "compile": "node-sass sass/main.scss css/style.css",
     "prefix": "postcss css/style.css --use autoprefixer -o css/style.css",
