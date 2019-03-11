@@ -44,8 +44,4 @@ body {
   // 1fr between sidebar and 8 columns content to center it
   // minmax(6rem, 1fr) - to shrink contenr between those 2 columns and don't go below 6rem
 
-  &>* {
-    padding: 20px;
-    font-size: 3rem;
-  }
 }
