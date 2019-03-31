@@ -2,7 +2,7 @@
 > Advanced CSS and SASS Udemy Course: Project Nexter
 
 ## General info
-SCSS and BEM practice with an own grid layout and floats.
+Grid layout with SCSS and BEM practice..
 
 ## Technologies
 * HTML
